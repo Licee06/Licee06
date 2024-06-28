@@ -1,16 +1,14 @@
 ## Hi there 👋
+class Data:
+    def __init__(self, name, email):
+        self.name = name
+        self.email = email
 
-<!--
-**Licee06/Licee06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def Data(self):
+        print('nama saya : ', self.name)
+        print('email saya : ', self.email)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+data = Data('Fico Aldi', 'ficosaputro@gmail.com')
+
+data.Data()
