@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, everyone 👋
+```python
 class Data:
     def __init__(self, name, email):
         self.name = name
@@ -9,6 +10,7 @@ class Data:
         print('email saya : ', self.email)
 
 
-data = Data('Fico Aldi', 'ficosaputro@gmail.com')
+data = Data('Ahmad Rafi', 'rafia9005@gmail.com')
 
 data.Data()
+```
