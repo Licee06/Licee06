@@ -10,7 +10,7 @@ class Data:
         print('email saya : ', self.email)
 
 
-data = Data('Ahmad Rafi', 'rafia9005@gmail.com')
+data = Data('Fico aldi', 'ficosaputro@gmail.com')
 
 data.Data()
 ```
