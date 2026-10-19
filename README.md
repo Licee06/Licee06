@@ -7,7 +7,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Hi+everyone%2C+I'm+Fico+Aldi+Saputro+%F0%9F%91%8B;Computer+Science+Student+%40+UDINUS+%F0%9F%8E%93;Backend+%26+Software+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Hi+everyone%2C+I'm+Fico+Aldi+Saputro;Computer+Science+Student+%40+UDINUS;Backend+%26+Software+Developer" alt="Typing SVG" />
   </a>
 
   <!-- Badges Row -->
@@ -32,7 +32,7 @@ class Developer:
         self.role = "CS Undergraduate & Developer"
         self.university = "Universitas Dian Nuswantoro (UDINUS)"
         self.location = "Semarang, Indonesia"
-        self.languages = ["C++", "C", "Python", "JavaScript"]
+        self.languages = ["C++", "C", "Python", "Go", "JavaScript"]
 
     def info(self):
         print(f"Name  : {self.name}")
@@ -44,8 +44,8 @@ me.info()
 ```
 
 - 🎓 Undergraduate **Computer Science / Informatics** student at **Universitas Dian Nuswantoro (UDINUS)**, Semarang.
-- 💻 Exploring **Backend Development**, **C/C++**, and software engineering fundamentals.
-- 🛠️ Currently focusing on building clean APIs, system programming, and improving problem-solving skills.
+- 💻 Exploring **Backend Engineering**, data pipelines, and system architectures.
+- 🛠️ **Currently focusing on:** Financial statement parser development (BCA, BNI, BRI, Mandiri), backend services (Python & Go), and AI model integration (Gemma) for automated transaction analysis.
 - 📫 Feel free to reach out to me for collaboration or questions!
 
 ---
@@ -55,12 +55,12 @@ me.info()
 <div align="center">
   <p><b>Languages</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,mysql&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,go,js,ts,html,css,postgres,mysql&theme=dark" alt="Languages" />
   </a>
   <br/><br/>
   <p><b>Frameworks & Tools</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,git,github,vscode,linux,docker,postman&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,fastapi,tailwind,git,github,vscode,linux,docker,postman&theme=dark" alt="Tools" />
   </a>
 </div>
 
