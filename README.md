@@ -7,7 +7,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Hi+everyone%2C+I'm+Fico+Aldi+Saputro+%F0%9F%91%8B;CS+Student+%40+Universitas+Dian+Nuswantoro+%F0%9F%8E%93;Backend+%26+Software+Development+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Hi+everyone%2C+I'm+Fico+Aldi+Saputro+%F0%9F%91%8B;Computer+Science+Student+%40+UDINUS+%F0%9F%8E%93;Backend+%26+Software+Developer+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 
   <!-- Badges Row -->
